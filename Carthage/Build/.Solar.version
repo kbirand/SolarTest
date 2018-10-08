@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+    {
+      "name" : "Solar",
+      "hash" : "a3299d68b8b9273a839b8da2b0ce5bf8aa3e74fa24be403eaaff371373773a64"
+    }
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.1.0",
+  "iOS" : [
+    {
+      "name" : "Solar",
+      "hash" : "12f917956da2b0409593abc66995867bc7a4b91e062aad2c3bd829d8ced5f6dd"
+    }
+  ]
+}
